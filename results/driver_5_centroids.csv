@@ -1,0 +1,4 @@
+cluster,workload_label,workload_score,subscales,hrv_mean_rr,hrv_sdnn,hrv_rmssd,hrv_sd1,hrv_sample_entropy,hrv_stress_index,hrv_mode_rr,temp_deriv_mean
+0,HIGH_LOAD,0.75,Mental Demand,0.0007,0.0002,0.0002,0.0002,0.0,0.0003,0.0007,0.0441
+1,MEDIUM_LOAD,0.625,Mental Demand,0.7133,0.195,0.1525,0.1485,0.0253,0.1205,0.6884,0.0431
+2,LOW_LOAD,0.125,,0.7108,0.2172,0.1535,0.1534,0.9981,0.086,0.6851,0.0439

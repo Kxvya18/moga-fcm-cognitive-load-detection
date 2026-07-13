@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+*.log
+.pytest_cache/
+.mypy_cache/
+AffectiveROAD_Data/
+raw_data/
+datasets/
+*.zip
+*.mat
+*.npy
+*.npz
+*.pdf
+*.docx
+
+# third-party dataset (AffectiveROAD-derived): obtain from the original source, not redistributed here
+affective_normalized.csv
+._*
